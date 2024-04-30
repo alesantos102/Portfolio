@@ -1,0 +1,17 @@
+.ButtonFade button{
+   background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+   padding: 15px 30px;
+   border: none;
+   border-radius: 25px;
+   margin: 20px 0px 0px 50px;
+   font-size: 20px;
+   transition: 0.4s;
+}
+
+.ButtonFade button:hover{
+   background: linear-gradient(270deg, #945DD6 0%, #6978D1 66.67%, #13ADC7 100%);
+   cursor: pointer;
+   transform: translateY(-7px);
+   transition: 0.4s;
+   box-shadow: 3px 3px 7px #13ADC7;
+}
