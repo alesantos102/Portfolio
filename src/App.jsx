@@ -9,9 +9,9 @@ function App() {
 
   return (
     <div>
-      <Navbar /> {/* front end completo, faltando as funcionalidades de endereçamento */}
-      <Hero />
-      <Projects />
+      <Navbar /> {/* front end completo, faltando as funcionalidades de endereçamento (retirar elemento não exibido no site)*/}
+      <Hero /> {/* Componente completo (precisando apenas alterar o conteudo*/}
+      <Projects /> {/* Componente completo (precisando apenas alterar o conteudo e sinto que tem que ter uma refinada no css) */}
       <About />
       <Footer />
     </div>

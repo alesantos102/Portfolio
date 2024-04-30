@@ -1,0 +1,15 @@
+.Projects {
+    margin: 150px 0 35px 0;
+}
+.Projects h1{
+    margin: 0 0 70px 20%;
+    font-size: 70px;
+}
+
+.Projects section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    column-gap: 25px;
+    row-gap: 100px;
+}
