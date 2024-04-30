@@ -1,0 +1,10 @@
+.Hero{
+    margin: 25px;
+} 
+.Hero h1{
+    font-size: 45px;
+}
+.Hero p{
+    margin-left: 25px;
+    font-size: 25px;
+}
