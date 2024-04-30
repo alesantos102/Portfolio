@@ -1,0 +1,36 @@
+.Card {
+    width: 500px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 25px 0px;
+    box-shadow: 2px 2px 7px white;
+    transition: 0.3s;
+    margin: 50px;
+    padding: 10px;
+}
+
+.Card:hover {
+    transform: translateY(-7px);
+    transition: 0.3s;
+}
+
+.Card img {
+    height: 200px;
+    margin: 25px;
+    margin-bottom: 0px;
+}
+
+.Card h2 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.Card p {
+    width: 400px;
+    text-align: start;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.Card button{
+    margin: 0 0 20px 0;
+}
