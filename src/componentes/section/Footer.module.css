@@ -1,0 +1,21 @@
+.Footer{
+    margin-top: 200px;
+    display: grid;
+    grid-auto-flow: column;
+    align-items:center;
+    justify-content: space-between;
+}
+.Footer img{
+    height: 30px;
+}
+.Footer ul{
+    display: flex;
+    text-align: start;
+}
+.Footer li {
+    list-style: none;
+    margin-left: 70px;
+}
+.Footer h2,p{
+    margin: 0;
+}
