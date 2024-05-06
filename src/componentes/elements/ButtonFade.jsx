@@ -1,9 +1,9 @@
 import style from './ButtonFade.module.css'
 
-function ButtonFade ({text}) {
+function ButtonFade ({text, link}) {
     return(
         <div className={style.ButtonFade}>
-            <button>{text}</button>
+            <a href={link} target='_blank' ><button>{text}</button></a>
         </div>
     )
 }

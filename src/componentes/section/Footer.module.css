@@ -7,6 +7,7 @@
 }
 .Footer img{
     height: 30px;
+    margin-right: 50px;
 }
 .Footer ul{
     display: flex;
@@ -16,6 +17,9 @@
     list-style: none;
     margin-left: 70px;
 }
-.Footer h2,p{
+.Footer h2{
     margin: 0;
+}
+.Footer p{
+    margin-left: 10px;
 }
