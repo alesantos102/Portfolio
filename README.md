@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 
 "Mostrando um pouco das minhas habilidades e bagagem no que se diz desenvolver web" - Alexsandro Soares Teixeira
+
+link do site no vercel : https://portfolio-five-self-89.vercel.app/
