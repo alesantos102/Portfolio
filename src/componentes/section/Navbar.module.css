@@ -9,6 +9,7 @@
 }
 .Navbar img{
     width: 30px;
+    margin-right: 20px;
 }
 .Navbar ul{
     display: flex;
@@ -16,4 +17,8 @@
 .Navbar li {
     list-style: none;
     margin-left: 50px;
+}
+.Navbar a{
+    color: aliceblue;
+    text-decoration: none;
 }
